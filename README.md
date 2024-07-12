@@ -17,7 +17,7 @@ Assignment 2:
   As such, there is no upload of this assignment as no coding was required.
 
 Assignment 3:
-- 
+- https://github.com/ChrispyBacon123/Third-Year-First-Semester/tree/main/Assignment%203
   Design a program that will read in a binary file consisting of virtual memory addresses.
   The program must then map these these addresses to corresponding physical memory addresses -- these were given to be hardcoded in the assignment.
   The program must write the mapped addresses to an output text file. 
