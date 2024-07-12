@@ -10,6 +10,7 @@ Assignment 1:
    - Allow for hosts to send messages to eachother
    - Allow for client-server communication between a client and a server
   * Note, this assignment can be found under the NetworkMessagingProject repo on my account
+    which can be found here: https://github.com/ChrispyBacon123/NetworkingMessageProject
 
 Assignment 2:
 - 
@@ -17,7 +18,7 @@ Assignment 2:
   As such, there is no upload of this assignment as no coding was required.
 
 Assignment 3:
-- https://github.com/ChrispyBacon123/Third-Year-First-Semester/tree/main/Assignment%203
+- 
   Design a program that will read in a binary file consisting of virtual memory addresses.
   The program must then map these these addresses to corresponding physical memory addresses -- these were given to be hardcoded in the assignment.
   The program must write the mapped addresses to an output text file. 
