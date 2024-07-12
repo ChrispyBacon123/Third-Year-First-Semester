@@ -14,7 +14,7 @@ Assignment 1:
 
 Assignment 2:
 - 
-  This assignmnt tasked us to use Wireshark to complete a Wireshark lab by James F. Kurose & Kieth W. Ross.
+  This assignment tasked us to use Wireshark to complete a Wireshark lab by James F. Kurose & Kieth W. Ross.
   As such, there is no upload of this assignment as no coding was required.
 
 Assignment 3:
